@@ -20,9 +20,9 @@ img {
 	overflow: hidden;
 }
 .background {
-	background-repeat: no-repeat;
+    background-repeat: no-repeat;
     background-position: 50% 50%;
-    background-size: 100%;
+    background-size: cover;
     background-image: url('../images/home/background.jpg');
 }
 a.scroll-down {
